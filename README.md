@@ -8,7 +8,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Kimia's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimia-yousefi&show_icons=true&theme=tokyonight)
+![Kimia's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimia-yousefi&show_icons=true&theme=radical)
 
 ---
 
