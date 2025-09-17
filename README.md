@@ -8,7 +8,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimia-yousefi&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimia-yousefi&layout=compact)
 ---
 
 ## 📫 How to reach me
