@@ -8,12 +8,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Kimia's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimia-yousefi&show_icons=true&theme=radical)
+[![Kimia's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimia-yousefi)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=kimia-yousefi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ---
