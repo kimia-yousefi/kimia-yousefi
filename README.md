@@ -10,12 +10,7 @@
 ## 📊 GitHub Stats
 [![Kimia's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimia-yousefi)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-## 🏆 GitHub Trophies
-
-
-
+![kimia's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimia-yousefi&show_icons=true)
 ---
 
 ## 📫 How to reach me
