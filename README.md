@@ -8,9 +8,7 @@
 ---
 
 ## 📊 GitHub Stats
-[![Kimia's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimia-yousefi)](https://github.com/anuraghazra/github-readme-stats)
-
-![kimia's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimia-yousefi&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimia-yousefi&layout=compact&theme=tokyonight)
 ---
 
 ## 📫 How to reach me
